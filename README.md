@@ -53,6 +53,7 @@ The developed the [streamlit application](https://oba4me-poultry-diseases-identi
  - The lack of information about NCD negatively affects the metrics in this class and the model. Thus, information about NCD should be collected in the future for training the model. 
  - In addition, this limitation is also corresponding to the errors that occur when using the image with two or more fecal or contain text on the images. Those complications might cause an error in the image detection of the model. In the future, object detection could be developed for better classification.
  - Moreover, all the image used for training in this model were obtained from poultry. We think it might be more practicable if we could train the model to be used widely for both poultry and broiler. Thus, it is important to collect more imformation about broiler and their fecals.
+
  
 ## Acknowledgements
  - [Machine Learning Dataset for Poultry Diseases Diagnostics - PCR annotated](https://doi.org/10.5281/zenodo.5801834)
