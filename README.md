@@ -29,9 +29,8 @@ We use the CNN model as the baseline score of our project and apply the transfer
 
 
 📁 **Tip:** Add this file as `a.md` in your repo and link it in `README.md` like this:
-```markdown
-📄 [Click here to view the complete workflow diagram](./a.md)
-```
+📄 [Click here to view the complete workflow diagram](./Diagram.md)
+
 
 
 ## Conclusions and Recommendations
