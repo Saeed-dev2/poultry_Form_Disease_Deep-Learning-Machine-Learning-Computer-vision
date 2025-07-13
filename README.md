@@ -28,6 +28,12 @@ We use the CNN model as the baseline score of our project and apply the transfer
 ![pre-precessiong](./picture/pre-precessiong.png)
 
 
+📁 **Tip:** Add this file as `a.md` in your repo and link it in `README.md` like this:
+```markdown
+📄 [Click here to view the complete workflow diagram](./a.md)
+```
+
+
 ## Conclusions and Recommendations
 The table shows performance of all models after training 25 epoch using GPU 1050 and used GPU GTX NVIDIA 1050   
 Parameters | CNN_Baseline  | VGG16_Transfer_Learning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Learning | MobileNetV2_Fine_Tuning 
