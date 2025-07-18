@@ -11,7 +11,6 @@ def load_model():
 with st.spinner('Model is being loaded..'):
   model=load_model()
 
-
 st.markdown("<h1 style='text-align: center; color: red;'>Poultry Diseases Identifier 🐣🐓💩 App Using Machine Learning</h1>", unsafe_allow_html=True)
 st.title('')
 
