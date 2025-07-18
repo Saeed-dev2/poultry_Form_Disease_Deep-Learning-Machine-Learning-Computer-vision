@@ -4,7 +4,6 @@ import cv2
 from PIL import Image, ImageOps
 import numpy as np
 
-
 @st.cache(allow_output_mutation=True)
 def load_model():
   model = tf.keras.models.load_model("./model/mobilenetV2/mobilenetv2.h5", compile = False) 
